@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/girish_zarbade" target="blank"><img src="https://img.shields.io/twitter/follow/girish_zarbade?logo=twitter&style=for-the-badge" alt="girish_zarbade" /></a> </p>
 
+- 🔭 I’m currently working on **WordPress & Frontend Frameworks**
+
+- 🌱 I’m currently learning **React.Js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/girishzarbade](https://github.com/girishzarbade)
+
+- 📫 How to reach me **girishzarbade26@gmail.com**
+
+- 📄 Know about my experiences [https://resume-girishzarbade.tiiny.site/](https://resume-girishzarbade.tiiny.site/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/girish_zarbade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="girish_zarbade" height="30" width="40" /></a>
