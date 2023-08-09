@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish Zarbade</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-<p align="left"><a href= "https://github-profile-trophy.vercel.app/?username=girishzarbade&theme=onedark"></a></p>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0a5c9fcdcf9c5d50c9da6?variant=dark)](https://roadmap.sh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishzarbade&label=Profile%20views&color=0e75b6&style=flat" alt="girishzarbade" /> </p>
 
