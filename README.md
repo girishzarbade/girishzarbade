@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girishzarbade&" alt="girishzarbade" /></p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0a5c9fcdcf9c5d50c9da6?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c0a5c9fcdcf9c5d50c9da6?variant=light)](https://roadmap.sh)
