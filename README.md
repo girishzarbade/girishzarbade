@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Girish Zarbade</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0a5c9fcdcf9c5d50c9da6?variant=dark)](https://roadmap.sh)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishzarbade&label=Profile%20views&color=0e75b6&style=flat" alt="girishzarbade" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girishzarbade" alt="girishzarbade" /></a> </p>
@@ -35,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girishzarbade&show_icons=true&locale=en" alt="girishzarbade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girishzarbade&" alt="girishzarbade" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c0a5c9fcdcf9c5d50c9da6?variant=dark)](https://roadmap.sh)
